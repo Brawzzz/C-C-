@@ -1,0 +1,4 @@
+﻿  vector.c
+C:\YA TROP DE CHOSE\C_&_C++\Vector\vector.c(103,22): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\YA TROP DE CHOSE\C_&_C++\Vector\vector.c(128,8): warning C4244: 'fonction' : conversion de 'time_t' en 'unsigned int', perte possible de données
+  Vector.vcxproj -> C:\YA TROP DE CHOSE\C_&_C++\Vector\x64\Debug\Vector.exe

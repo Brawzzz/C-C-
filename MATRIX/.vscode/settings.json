@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "Matrice.h": "c",
+        "math.h": "c"
+    }
+}

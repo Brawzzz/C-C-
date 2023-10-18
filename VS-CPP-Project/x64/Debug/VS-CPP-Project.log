@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\YA TROP DE CHOSE\C_&_C++\VS-CPP-Project\main.cpp(116,25): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+  VS-CPP-Project.vcxproj -> C:\YA TROP DE CHOSE\C_&_C++\VS-CPP-Project\x64\Debug\VS-CPP-Project.exe
